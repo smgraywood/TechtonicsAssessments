@@ -1,0 +1,75 @@
+h1{
+    font-family: 'Sacramento', cursive;
+    display: flex;
+      margin: auto 0;
+      align-items: center;
+      position: relative;
+      justify-content: center;
+  }
+  div{
+    font-family: 'Lato', sans-serif;
+     display: flex;
+     margin: auto 0;
+     align-items: center;
+     position: relative;
+     justify-content: center;
+  }
+  input{
+      display: flex;
+      margin: auto 0;
+      align-items: center;
+      position: relative;
+      justify-content: center;
+  }
+  #p1{
+    display:inline-block;
+    margin: auto 0;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-decoration: underline;
+    cursor: pointer;
+    border: .5 px solid gray;
+    border-radius: 20px;
+    box-shadow: 1px 5px lightgray;
+    width: 600px;
+    opacity: 0.8;
+    justify-content: center;
+}
+#p2{
+    display:inline-block;
+    margin: auto 0;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-decoration: underline;
+    cursor: pointer;
+    border: .5 px solid gray;
+    border-radius: 20px;
+    box-shadow: 1px 5px lightgray;
+    width: 600px;
+    opacity: 0.8;
+    justify-content: center;
+}
+#p3{
+    display:inline-block;
+    margin: auto 0;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-decoration: underline;
+    cursor: pointer;
+    border: .5 px solid gray;
+    border-radius: 20px;
+    box-shadow: 1px 5px lightgray;
+    width: 600px;
+    opacity: 0.8;
+    justify-content: center;
+}
+#paragraphs{
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+}
